@@ -1,0 +1,6 @@
+interface:
+  display_name: "Anúncios Escalados"
+  short_description: "Compare vídeos de concorrentes na Meta"
+  default_prompt: "Use $anuncios-escalados para pesquisar um concorrente na Meta e mostrar o custo antes da coleta."
+policy:
+  allow_implicit_invocation: false

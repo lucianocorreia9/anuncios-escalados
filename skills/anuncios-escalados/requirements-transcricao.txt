@@ -1,0 +1,3 @@
+faster-whisper==1.2.1
+# A versão 19 do PyAV removeu um argumento usado pelo faster-whisper 1.2.1.
+av==15.1.0
